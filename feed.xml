@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="www.vihari.me/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="www.vihari.me/feed.xml" rel="self" type="application/atom+xml" /><link href="www.vihari.me/" rel="alternate" type="text/html" /><updated>2017-01-29T20:26:01-08:00</updated><id>www.vihari.me//</id><title type="html">Vihari Muttineni</title><subtitle>Student at Cal Poly studying Computer Science. I like programming, photography, and writing. The goal is to update this blog at least once a week.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="www.vihari.me/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="www.vihari.me/feed.xml" rel="self" type="application/atom+xml" /><link href="www.vihari.me/" rel="alternate" type="text/html" /><updated>2017-01-29T20:53:48-08:00</updated><id>www.vihari.me//</id><title type="html">Vihari Muttineni</title><subtitle>Student at Cal Poly studying Computer Science. I like programming, photography, and writing. The goal is to update this blog at least once a week.
 </subtitle><entry><title type="html">Homogeneity Breeds Feedback Loops But Mass Brings Homogeneity</title><link href="www.vihari.me/jekyll/update/2017/01/29/homogeneity-breeds-feedback-loops-but-mass-breeds-homogeneity.html" rel="alternate" type="text/html" title="Homogeneity Breeds Feedback Loops But Mass Brings Homogeneity" /><published>2017-01-29T04:13:41-08:00</published><updated>2017-01-29T04:13:41-08:00</updated><id>www.vihari.me/jekyll/update/2017/01/29/homogeneity-breeds-feedback-loops-but-mass-breeds-homogeneity</id><content type="html" xml:base="www.vihari.me/jekyll/update/2017/01/29/homogeneity-breeds-feedback-loops-but-mass-breeds-homogeneity.html">&lt;p&gt;“The three things you don’t talk about in polite conversation are money, religion, and politics.” Why is this something that we hear growing up? Because you can never be sure what someone’s position on money, religion, and politics are – and because nobody likes friction. Because humans have empathy, we tend to want everyone else in a group to feel comfortable and at ease, and it is infinitely easier for someone to feel comfortable when they can relate to the topic of the conversation.&lt;/p&gt;
 
 &lt;p&gt;The thing is, it isn’t just money, religion, and politics that we don’t talk about. We don’t talk about a whole boatload of things all the time and it’s detrimental to us all, and I’ve only recently been realizing this. Let me illustrate.&lt;/p&gt;
 
 &lt;p&gt;I’m going to take a circle in space, and fill it in with an abstract representation of myself. Every decision, every opinion, every thought, interest, passion, curiosity, etc. When I am alone (or more technically, in a group of 1 – myself), I am accountable only to myself, and I am 100% unadulterated. My abstract circle hanging over myself and my real self are one and the same, and the amount of time I spend doing things and thinking about things very accurately reflect my inner model of who I am.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;www.vihari.me/assets/vihari.png&quot; alt=&quot;Vihari&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/vihari.png&quot; alt=&quot;Vihari&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Now, take Rishab. He walks into the room, and he has his own abstract representation of himself hanging over himself as well. Every decision, every opinion, every thought… etc. Please note that there is some overlap!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;www.vihari.me/assets/vihari_and_rishab.png&quot; alt=&quot;Vihari And Rishab&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/vihari_and_rishab.png&quot; alt=&quot;Vihari And Rishab&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Now in an ideal world, the abstract group of two that has just formed (me and Rishab) becomes the union of the abstract representation of me and the abstract representation of Rishab, and our group would now equally do stuff and think about everything from the superset.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;www.vihari.me/assets/union.png&quot; alt=&quot;Union&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/union.png&quot; alt=&quot;Union&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In actuality though, because humans in groups are hardwired to make each other feel at ease, what happen is that we focus on how we are alike – at the detriment to how we are not-alike. In other words, the group of Rishab and I becomes the intersection of Rishab and Vihari, not the union.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;www.vihari.me/assets/intersection.png&quot; alt=&quot;Intersection&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/intersection.png&quot; alt=&quot;Intersection&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I see this clearly every day I interact with Rishab. I love Indian music, he hates it. So I don’t play Indian music around him (he literally tells my Alexa to shut up). He’s really big into watching “great movies”, I am not a huge movie person. We don’t really watch movies together all that often. Instead, we focus on what we both like (and know that the other likes): startups, introspection, competition for self-improvement, programming, good beer, programming while drinking good beer, and The Avengers (although Tony Stark is my idol and Captain America is his so we argue here too…) But whenever Rishab is in a group with me, he can’t sing along at the top of his lungs to the Moana soundtrack on Spotify (yes this happens regularly when he’s in the shower, no I don’t know why I’m still okay living with him in SF), and he only gives me a five minute attention span to say whatever I want to say about photography.&lt;/p&gt;
 
 &lt;p&gt;The examples I’ve brought up are lighthearted and the argument can be made that they don’t really matter, but that’s because Rishab and I are actually painfully similar where it matters (painful for my ego). Let’s go back to the visuals though, and take a look at another group that we’re both part of: the Bae Area Hackers Facebook Messenger group. This is a group of 7 close friends in the Cal Poly CS department who have gone through years of courses together, and we’re all fairly tight. There won’t be more than a couple hours until someone messages in this chat on any given day, so it’s safe to say I’m pretty good friends with all of these people.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;www.vihari.me/assets/bae_area_plain.png&quot; alt=&quot;plain&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/bae_area_plain.png&quot; alt=&quot;plain&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;One would think that close friends will talk about everything, but as it turns out, the Bae Area Hackers group talks almost exclusively about: classes and coursework, Silicon Valley and the latest HackerNews updates, Trump, and occasionally our accomplishments in a congratulatory way.&lt;/p&gt;
 
@@ -35,11 +35,11 @@
 
 &lt;p&gt;Again, it would be a glorious time to be alive if the Bae Area Hackers was the union of all 7 of us:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;www.vihari.me/assets/bae_area_union.png&quot; alt=&quot;bae_union&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/bae_area_union.png&quot; alt=&quot;bae_union&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Unfortunately, it’s the intersection, and that’s bad! Suddenly, we don’t have much to talk about at all, and we just keep talking about that stuff.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;www.vihari.me/assets/bae_area_intersection.png&quot; alt=&quot;bae_intersection&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/bae_area_intersection.png&quot; alt=&quot;bae_intersection&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So, homogeneity leads to feedback loops. This makese sense. Because humans are inherently empathetic and want as many group members as possible to feel at ease and comfortable, we willingly sacrifice our non-conformist and minority viewpoints/ideals/topics/experiences (in the current context of whatever group we’re in) in a very noble effort to be kind to each other, but now that group is stuck in a not very mentally stimulating feedback loop.&lt;/p&gt;
 
